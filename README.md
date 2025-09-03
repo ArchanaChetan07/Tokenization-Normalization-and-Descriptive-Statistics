@@ -1,14 +1,14 @@
-# Assignment-2.1-Tokenization-Normalization-and-Descriptive-Statistics
+# Tokenization-Normalization-and-Descriptive-Statistics
 
-# 🎵 Lyrics Analysis Notebook
+# Lyrics Analysis Notebook
 
 This project analyzes lyrics data using natural language processing (NLP) techniques to explore patterns, trends, and insights in song lyrics.
 
-## 📁 Project Structure
+## Project Structure
 
 - `Lyrics.ipynb`: The main Jupyter Notebook containing the analysis code and visualizations.
 
-## 🚀 Features
+## Features
 
 - Tokenization and lexical diversity calculation
 - Word frequency analysis
@@ -16,7 +16,7 @@ This project analyzes lyrics data using natural language processing (NLP) techni
 - Artist-wise statistics
 - Data visualization
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - Python
 - Jupyter Notebook
